@@ -12,7 +12,7 @@
   all (onset at or before its own earliest observed period), since such
   cohorts are not identified from within-cohort variation but were previously
   included in aggregated ATTs with no indication of this. Thanks to @umor for
-  the report. (#XX, #XX)
+  the report. (#89)
 
 # etwfe 0.6.2
 
